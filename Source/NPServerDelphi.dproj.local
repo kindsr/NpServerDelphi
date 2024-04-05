@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.256,D:\100_Development\Examples\NP Server Delphi\Source\Unit1.pas=D:\100_Development\Examples\NP Server Delphi\Source\DataObject\uDoIONData.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.045,=D:\100_Development\Examples\NP Server Delphi\Source\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.793,D:\100_Development\Examples\NP Server Delphi\Source\DataObject\uDoIONData.pas=D:\100_Development\Examples\NP Server Delphi\Source\DataObject\uIONData.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="DataObject"/>
+    <File Path="DataObject\uIONData.pas"/>
+    <File Path="uConfig.pas"/>
+    <File Path="uConfig.dfm"/>
+    <File Path="uDM.pas"/>
+    <File Path="uDM.dfm"/>
+    <File Path="uGlobal.pas"/>
+    <File Path="uMain.pas"/>
+    <File Path="uMain.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
